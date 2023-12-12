@@ -30,7 +30,7 @@ Therefore, the host side is designed to receive the R matrix from the kernel. To
 
 
 ## Result
-We have successfully obtain the expected result.
+We have successfully obtain the expected result, but must be patient to wait for the hardware and hardware emulation to give outputs.
 However I am now trying to recover the newly updated codes and the result figure from my broken previous computer..... ;_;
 
 
