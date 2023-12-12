@@ -30,7 +30,7 @@ And the host side is designed to send the input data matrix into the kernel.
 
 
 ## Result
-We have successfully obtain the expected result, but must be patient to wait for the hardware and hardware emulation to give outputs.
+We have successfully obtain the expected result, but one must be patient to wait for the hardware and hardware emulation to give outputs.
 
 However I am now trying to recover the newly updated codes and the result figure from my broken previous computer..... ;_;
 
