@@ -27,3 +27,11 @@ Adaptive_Beamforming
 ```
 At present, the kernel only support the qrf function. It receive the matrix A with the row=100 and col=10. The kernel generate the matrix R and Q by applying the qrf to the matrix A and only send the matrix R (10x10) back to host side.
 Therefore, the host side is designed to receive the R matrix from the kernel. To finished the whole Beamforming funcion, we have to modify both the kerenl and hostside.
+
+
+## Result
+We have successfully obtain the expected result.
+However I am now trying to recover the newly updated codes and the result figure from my broken previous computer..... ;_;
+
+
+
