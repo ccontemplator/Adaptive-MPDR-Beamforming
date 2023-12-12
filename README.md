@@ -33,7 +33,7 @@ And the host side is designed to send the input data matrix into the kernel.
 We have successfully obtain the expected result, but one must be patient to wait for the hardware and hardware emulation to give outputs.
 Please check out the report to understand what we were doing.
 
-However I am now trying to recover the up-to-date codes and the result figure from my broken previous computer..... ;_;
+NOTE: under maintenance, still recovering codes... ;_;
 
 
 
